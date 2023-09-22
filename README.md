@@ -1,1 +1,1 @@
-# Bem-project
+# Bem-project - Мой новый учебний проект
