@@ -1,5 +1,5 @@
 @import"./reset.css";
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@600;700&family=Noto+Sans&family=PT+Sans:wght@400;700&family=Playfair+Display:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Playfair+Display:wght@400;700&display=swap');
 
 .product {
     padding-top: 60px;
@@ -21,7 +21,7 @@
     width: 540px;
 }
 .product__title {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 .main-title {
     font-weight: 700;
@@ -33,6 +33,7 @@
     line-height: 1.2;
     margin-bottom: 32px;
     color: #7E9BBD;
+    font-weight: 600;
 }
 .product__price span {
     font-size: 16px;
@@ -70,7 +71,6 @@
 .product__article {
     font-family: "Playfair Display", serif;
     font-size: 18px;
-    font-weight: 400;
     line-height: 1.7;
     color: #000;
 }
